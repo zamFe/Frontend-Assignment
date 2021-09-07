@@ -1,3 +1,43 @@
-.search {
-    background-color: blue;
+html,
+body {
+    height: 100%;
+    Width: 100%;
+    margin: 0;
+}
+
+.search-flow-container {
+    display: block;
+}
+
+.flow-title {
+    margin-left: 0px;
+}
+
+.input-container {
+    height: 2rem;
+    margin-bottom: 10px;
+}
+
+.search-input {
+    display: inline-block;
+    height: inherit;
+    width: 20rem;
+    border: 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+.search-input:focus {
+    outline: none !important;
+    border: 1px #0e4ea8;
+    box-shadow: 0 0 1px 1px #0e4ea8;
+}
+
+.search-icon {
+    position: relative;
+    top: 0.5rem;
+    left: -2rem;
+    height: 1.5rem;
+    width: auto;
+    background-size: contain;
+    fill: rgba(0, 255, 0, 0.5);
 }
