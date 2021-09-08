@@ -9,6 +9,6 @@ I tried to spend around five hours, but time was short due to a lot of interview
 
 Hope this is understandable! :--)
 
-![search bar unfocused]("https://github.com/zamFe/Frontend-Assignment/blob/main/images/search_unfocused.png")
+![search bar unfocused](https://github.com/zamFe/Frontend-Assignment/blob/main/images/search_unfocused.png)
 
-![search bar focused]("https://github.com/zamFe/Frontend-Assignment/blob/main/images/search_focused.png")
+![search bar focused](https://github.com/zamFe/Frontend-Assignment/blob/main/images/search_focused.png)
