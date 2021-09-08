@@ -8,3 +8,7 @@ however, i got stuck on the API-part with a CORS issue.
 I tried to spend around five hours, but time was short due to a lot of interviews..
 
 Hope this is understandable! :--)
+
+![alt text]("https://github.com/zamFe/Frontend-Assignment/blob/main/images/search_unfocused.png?raw=true")
+
+![alt text]("https://github.com/zamFe/Frontend-Assignment/blob/main/images/search_focused.png?raw=true")
