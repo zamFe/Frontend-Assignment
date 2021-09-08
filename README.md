@@ -1,11 +1,10 @@
-## Hurtigruten frontend assignment
+## Felix - Frontent Assignment
 
-This project allows Hurtigruten to asses potential frontend candidates with real, working code.
+I had some problems with completing this task, as i've never used React nor TypeScript before...
 
-You will find the exercises in the [exercises.md](./exercises.md) file.
+I tried learning as i went, and got as far as to have the search-bar with styling and a working clear-icon,
+however, i got stuck on the API-part with a CORS issue.
 
-We don't expect you to use more than **5 hours** on this. If you're not finished after the time limit that's fine, just submit what you've got.
+I tried to spend around five hours, but time was short due to a lot of interviews..
 
-We have bootstrapped this assignment with [Create React App](https://github.com/facebook/create-react-app) to give you the initial setup.
-
-**If you feel strongly about using other frameworks (such as [Vue](https://vuejs.org/), [Angular](https://angular.io/) or [Svelte](https://svelte.dev/)), libraries or tools you are free to do so!**
+Hope this is understandable! :--)
