@@ -4,6 +4,7 @@ import {useState} from 'react';
 import { Component } from 'react';
 import searchIcon from './assets/magnifying-glass.svg';
 import crossIcon from './assets/cross.svg';
+import ApiResult from './APIResult';
 
 function App() {
   const [inputValue, setInputValue] = useState('');
@@ -50,6 +51,7 @@ function App() {
                   </div>
             </div>
         </form>
+        <ApiResult />
 </div>
   );
 }

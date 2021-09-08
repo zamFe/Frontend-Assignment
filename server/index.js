@@ -1,4 +1,7 @@
 const express = require('express');
+const router = express.Router();
+const cors = require("cors");
+router.use(cors());
 const ships = require('./ships.json');
 const server = express();
 const port = 4000;
